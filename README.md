@@ -22,7 +22,7 @@ with Action specific Deep Q networks(ADQN) on a toy problem of traffic flow cont
 *ADQN against ADRQN wrt average speed achieved*
 
 
-![policy compare](https://github.com/nmtvijay/Improving-Traffic-Flow-with-Deep-RL/tree/master/images/policy_comparison.png)
+![policy compare](https://github.com/nmtvijay/Improving-Traffic-Flow-with-Deep-RL/blob/master/images/policy_comparision.png)
 *Comparison of different exploration policies on ADRQN*
 
 
