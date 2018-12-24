@@ -1,7 +1,7 @@
 # Improving-Traffic-Flow-with-Deep-RL
 
 We implement and explore Action specific Recurrent Deep Q networks(ADRQN) and compare them
-with Action specific Deep Q networks(ADQN) on a toy problem of traffic flow control. The framework is also an attempt at comparing different action selection exploration strategies in this setting of ADRQNs. A detailed report can be found here [summary](https://vihang-ag.github.io/pdfs/Project_report.pdf)
+with Action specific Deep Q networks(ADQN) on a toy problem of traffic flow control. The framework is also an attempt at comparing different action selection exploration strategies in this setting of ADRQNs. A detailed report can be found here: [summary](https://vihang-ag.github.io/pdfs/Project_report.pdf)
 
 
 
