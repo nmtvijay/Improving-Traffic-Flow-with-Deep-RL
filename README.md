@@ -49,11 +49,8 @@ For each implementation (create models and log folder to save the weights learne
 
 ```
 mkdir models
-
 mkdir log
-
 Set the hyperparameter DL_is_training to True and VISUALENABLED to False in Config.py
-
 python gui.py
 ```
 
@@ -64,7 +61,6 @@ The hyperparameters can be finetuned in 'Config.py'. The current implementation 
 
 ```
 Set the hyperparameter DL_is_training to False and VISUALENABLED to True in Config.py
-
 python gui.py
 ```
 
