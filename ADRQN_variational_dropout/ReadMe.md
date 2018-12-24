@@ -1,1 +1,1 @@
-## Implementation of ADRQN with variational dropouts exploration approach
+## Implementation of ADRQN with variational dropouts as an exploration approach
