@@ -47,7 +47,7 @@ For each implementation,
 ```
 Set the hyperparameter DL_is_training to True and VISUALENABLED to False in Config.py
 
-Python gui.py
+python gui.py
 ```
 
 The hyperparameters can be finetuned in 'Config.py'. The current implementation trains each model for 2000 episodes.
@@ -58,7 +58,7 @@ The hyperparameters can be finetuned in 'Config.py'. The current implementation 
 ```
 Set the hyperparameter DL_is_training to False and VISUALENABLED to True in Config.py
 
-Python gui.py
+python gui.py
 ```
 
 
