@@ -6,7 +6,9 @@ with Action specific Deep Q networks(ADQN) on a toy problem of traffic flow cont
 
 
 ## Results
-![agent playing](https://github.com/nmtvijay/Improving-Traffic-Flow-with-Deep-RL/blob/master/images/environment.png)
+<p align="center">
+  <img src="https://github.com/nmtvijay/Improving-Traffic-Flow-with-Deep-RL/blob/master/images/environment.png">
+</p>
 
 #### Final Average Speed Comparisons 
 |  Network Architecture | Avg Speed (km/hr) | 
