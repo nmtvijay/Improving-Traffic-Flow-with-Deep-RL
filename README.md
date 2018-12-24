@@ -42,9 +42,13 @@ with Action specific Deep Q networks(ADQN) on a toy problem of traffic flow cont
 
 Each folder is an implementation with a different exploration strategy. Read their respective ReadMe files for the network architecture and the exploration strategy used.
 
-For each implementation,
+For each implementation (create models and log folder to save the weights learned),
 
 ```
+mkdir models
+
+mkdir log
+
 Set the hyperparameter DL_is_training to True and VISUALENABLED to False in Config.py
 
 python gui.py
